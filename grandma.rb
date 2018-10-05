@@ -5,7 +5,7 @@ def speak_to_grandma (phrase)
     return "I LOVE YOU TOO PUMPKIN!"
     
     elsif phrase != phrase.upcase
-    puts "HUH?! SPEAK UP, SONNY!"
+
     return "HUH?! SPEAK UP, SONNY!"
     
   elsif phrase == phrase.upcase
